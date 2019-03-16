@@ -14,4 +14,4 @@ The app stores every burger in a database, wheter devoured or not.
 
 
 I'm not able to open the app after deploying to Heroku. This is what the app looks like from my local computer:
-<img width="560" alt="Screen Shot 2019-03-15 at 11 21 15 PM" src="https://user-images.githubusercontent.com/14854129/54470629-1165a600-4779-11e9-8328-1d92cfa83943.png">
+<img width="1564" alt="Screen Shot 2019-03-15 at 11 22 54 PM" src="https://user-images.githubusercontent.com/14854129/54470640-4a9e1600-4779-11e9-9f21-824467ed8f13.png">
